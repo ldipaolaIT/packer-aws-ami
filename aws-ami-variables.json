@@ -1,0 +1,11 @@
+{
+        "aws_access_key": "XXXXXXXXXXXXXXXXXXX",
+        "aws_secret_key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "aws_subnet_id":  "subnet-XXXXXXXXXXXXXXXXXX",
+        "aws_security_group": "sg-XXXXXXXXXXXXXXXXXX",
+        "aws_region": "us-east-1",
+        "virtualization_type": "hvm",
+        "root_device_type": "ebs",
+        "owners": "XXXXXXXXXXX",
+        "instance_type": "t2.micro"
+}
